@@ -1,0 +1,23 @@
+PS E:\Code Alpha Tasks>  & 'c:\Users\rosha\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\rosha\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy\launcher' '56930' '--' 'E:\Code Alpha Tasks\portfolio_tracker.py' 
+📈 Stock Portfolio Tracker
+Available Stocks & Prices:
+  AAPL: $180
+  TSLA: $250
+  GOOGL: $2700
+  MSFT: $310
+  AMZN: $145
+
+Enter 'done' to finish entering stocks.
+
+Enter stock symbol (e.g., AAPL): AAPL
+Enter quantity of AAPL: 5
+Enter stock symbol (e.g., AAPL): TSLA
+Enter quantity of TSLA: 2
+Enter stock symbol (e.g., AAPL): done
+
+🧾 Portfolio Summary:
+AAPL: 5 shares × $180 = $900
+TSLA: 2 shares × $250 = $500
+
+💰 Total Investment: $1400
+
